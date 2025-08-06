@@ -3,7 +3,7 @@ Train a model using CNN
 
 
 
-Overview
+Overview :
 This project implements a Convolutional Neural Network (CNN) to identify and classify different types of fruits from images. It aims to demonstrate the practical use of deep learning in computer vision, with applications in agriculture, retail automation, and fruit sorting systems.
 
 Key Features
